@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name 10118193-0001LF)(type Legacy)(uri ${KIPRJMOD}/10118193-0001LF.mod)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type Legacy)(uri ${KIPRJMOD}/SamacSys_Parts.mod)(options "")(descr ""))
+  (lib (name usb)(type KiCad)(uri ${KIPRJMOD}/usb.pretty)(options "")(descr ""))
+)

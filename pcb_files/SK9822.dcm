@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK9822
+D RGB LED
+F https://www.pololu.com/file/0J1234/sk9822_datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
