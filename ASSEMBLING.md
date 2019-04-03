@@ -40,6 +40,8 @@ Finally add the switch (SW1) near the USB port. This can face either direction.
 
 Now it's time to test the board. Plug in the USB port power up the system. You should see all 4 leds light up and change color.
 
+If nothing happens after 5 seconds, remove power and feel the micro-controller and voltage regulator. If either are warm or hot, first check the board for any shorts and that components are in the correct orientation.
+
 If only a few LEDs light up.
  * Check the orenitation of the LEDs. Are the triangle cutout facing the labels on the silk-screen (U3, U4, U5, and U7)
  * Is there enough solder on each of the 6 pads from the LED?
