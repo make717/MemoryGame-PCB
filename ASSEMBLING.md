@@ -9,6 +9,8 @@ Parts list:
  * three 0.1u capacitors (0805 size)
  * one microUSB port
  * one MIC5504 3.3 volt regulator
+ * one power switch
+ 
 
 Here's a rendering of the final populated badge
 ![Make717badge](https://github.com/make717gh/MemoryGame-PCB/blob/master/front_badge.png)
