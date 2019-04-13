@@ -12,6 +12,6 @@ The badge is powered by either USB or two AAA batteries (*SW1* "Power Switch" ca
 If you are joining us at Make717, or have all the component to build a badge, you can follow the [assembling instructions](https://github.com/make717gh/MemoryGame-PCB/blob/master/ASSEMBLING.md) which include tips on what to check if the badge is not working.
 
 # Flashing and Firmware
-You can update the firmware on the badge over USB by droping an updated UF2 image when in bootloader mode. To enter this mode, double tap the *RST1* to *GND1* while powered over USB. The drive should reappear as *FEATHER_BOOT* when it has entered this mode. 
+You can update the firmware on the badge over USB by droping an updated UF2 image when in bootloader mode. To enter this mode, double tap the *RST1* to *GND1* while powered over USB. The drive should reappear as *MAKEBOOT* when it has entered this mode. 
 
 It is also possible to directly program the SAMD21G18A using Serial Wire Debug (SWD). We recommend a [J-LINK](https://www.adafruit.com/product/3571) programmer or similar, connecting to *SWDIO1* (data), *SWCLK1* (clock), *GND1* (ground), and *3V3* (power). You will also need to power the board with 3.3 volts which can be done via the USB connection while programming or the *5V* pin near the USB port.
